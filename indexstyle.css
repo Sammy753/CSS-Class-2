@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(198, 198, 255);
+}
+.Call-me{
+    background-color: blue;
+    color: white;
+}
+.View-my-CV{
+    background-color: green;
+    color: white;
+}
+.View-my-PW{
+    background-color: purple;
+    color: white;
+}
+#intro{
+    color: rgb(255, 51, 0);
+}
+#future{
+    color: blue;
+}
+.future{
+    background-color: green;
+    color: bisque;
+}
+.Playing{
+    color: brown;
+}
+.here1, .here2{
+    background-color: brown;
+}
+ul .highly{
+    background-color: rgb(247, 1, 1);
+}
